@@ -5,6 +5,8 @@ Given an `m x n` integer matrix `heightMap` representing the height of each unit
 
 **Example 1:**
 
+![image](https://github.com/user-attachments/assets/1552b248-13e1-4c29-93e2-c1038157994f)
+
 > **Input:** heightMap = [[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]]
 > 
 > **Output:** 4
@@ -14,6 +16,8 @@ Given an `m x n` integer matrix `heightMap` representing the height of each unit
 > The total volume of water trapped is 4.
 
 **Example 2:**
+
+![image](https://github.com/user-attachments/assets/5f823dfb-a16d-4ad5-8898-a1c1c3ab5b74)
 
 >**Input:** heightMap = [[3,3,3,3,3],[3,2,2,2,3],[3,2,1,2,3],[3,2,2,2,3],[3,3,3,3,3]]  
 >**Output:** 10
