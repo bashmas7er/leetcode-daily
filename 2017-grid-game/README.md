@@ -10,6 +10,8 @@ The **first** robot wants to **minimize** the number of points collected by the 
 
 **Example 1:**
 
+![image](https://github.com/user-attachments/assets/11b5d147-0230-49b8-98e2-1b6ff34ff65f)
+
 
 > **Input:** grid = [[2,5,4],[1,5,1]]  
 > **Output:** 4  
@@ -20,6 +22,8 @@ The **first** robot wants to **minimize** the number of points collected by the 
 
 **Example 2:**
 
+![image](https://github.com/user-attachments/assets/67831848-6d3b-443b-aeb0-f4da2a7ef943)
+
 
 > **Input:** grid = [[3,3,1],[8,5,2]]  
 > **Output:** 4  
@@ -29,6 +33,8 @@ The **first** robot wants to **minimize** the number of points collected by the 
 
 
 **Example 3:**
+
+![image](https://github.com/user-attachments/assets/57831c03-916e-43b6-96df-bb35fd4a2caa)
 
 
 > **Input:** grid = [[1,3,1,15],[1,3,3,1]]  
