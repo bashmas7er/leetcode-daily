@@ -21,6 +21,7 @@ Return *an integer matrix `height` of size `m x n` where `height[i][j]` is cell 
 
 **Example 1:**
 
+![image](https://github.com/user-attachments/assets/d5bc9f35-d9a3-4158-822e-27f480e3c982)
 
 
 > **Input:** isWater = [[0,1],[0,0]]  
@@ -32,6 +33,7 @@ Return *an integer matrix `height` of size `m x n` where `height[i][j]` is cell 
 
 **Example 2:**
 
+![image](https://github.com/user-attachments/assets/8dbc3058-884a-4df2-bab3-50fe9bed3215)
 
 
 > **Input:** isWater = [[0,0,1],[1,0,0],[0,0,0]]  
